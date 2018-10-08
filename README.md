@@ -6,3 +6,8 @@
 9/23/18:
 - Inheritance hierarchy was created to show the relationships between each class
 - Each class was implemented, with the product class and snack class being abstract.
+
+10/7/2018:
+- Comparable interface was implemented into Product class.
+- Updated UML
+- Driver class was created. This tests the compareTo() method.
