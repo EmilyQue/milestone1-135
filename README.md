@@ -14,3 +14,5 @@
 
 10/24/2018:
 - User interface was created 
+- Transaction class was created
+
