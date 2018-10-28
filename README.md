@@ -11,3 +11,6 @@
 - Comparable interface was implemented into Product class.
 - Updated UML
 - Driver class was created. This tests the compareTo() method.
+
+10/24/2018:
+- User interface was created 
