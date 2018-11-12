@@ -16,3 +16,8 @@
 - User interface was created 
 - Transaction class was created
 
+11/5/2018:
+- InventoryManager class was created
+- Animation created and implemented into vending machine (still need to improve animation of item falling into basket)
+
+
