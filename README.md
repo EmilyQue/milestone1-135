@@ -20,4 +20,12 @@
 - InventoryManager class was created
 - Animation created and implemented into vending machine (still need to improve animation of item falling into basket)
 
-
+12/1/2018:
+- Global Inventory Manager was created and implemented in the Vending Machine class
+- CSV file contains information about items in the main vending machine and second vending machine
+- Name and quantity properly uses recursive sorting method to sort items
+- Item search properly uses recursive search method to search for item within both vending machines
+- Restock class was created and implemented in the Vending Machine class
+- Restock generates a purchase order for items with quantity of 3 or less. Quantity to order is 10 items
+   and total price is displayed.
+- Still working on re-designing vending machine in order to function correctly when being used. 
