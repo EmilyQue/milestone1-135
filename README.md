@@ -28,4 +28,14 @@
 - Restock class was created and implemented in the Vending Machine class
 - Restock generates a purchase order for items with quantity of 3 or less. Quantity to order is 10 items
    and total price is displayed.
-- Still working on re-designing vending machine in order to function correctly when being used. 
+- Still working on re-designing vending machine in order to function correctly when being used.
+
+12/8/2018:
+-  CSV file contains list of customers with purchase
+- ProcessCustomerQueue class was created and implemented in Vending Machine (Machine.java)
+- Queue methods first(), length(), in(), out(), isEmpty() are used within the class
+- Transaction is processed, if item is not available, then it is replaced with a random item
+- Removes customer from queue once transaction is processed
+- CustomerDisplay is created and extends Application
+- GUI displays each customer's interaction with the vending machine (name, item purchased, price)
+
