@@ -21,7 +21,7 @@
 - Animation created and implemented into vending machine (still need to improve animation of item falling into basket)
 
 12/1/2018:
-- Global Inventory Manager was created and implemented in the Vending Machine class
+- Global Inventory Manager was created and implemented in the Vending Machine class (Machine.java)
 - CSV file contains information about items in the main vending machine and second vending machine
 - Name and quantity properly uses recursive sorting method to sort items
 - Item search properly uses recursive search method to search for item within both vending machines
