@@ -38,4 +38,5 @@
 - Removes customer from queue once transaction is processed
 - CustomerDisplay is created and extends Application
 - GUI displays each customer's interaction with the vending machine (name, item purchased, price)
+- Vending Machine is still being worked on 
 
