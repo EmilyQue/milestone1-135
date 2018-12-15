@@ -36,7 +36,7 @@
 - Queue methods first(), length(), in(), out(), isEmpty() are used within the class
 - Transaction is processed, if item is not available, then it is replaced with a random item
 - Removes customer from queue once transaction is processed
-- CustomerDisplay is created and extends Application
-- GUI displays each customer's interaction with the vending machine (name, item purchased, price)
+- Was unable to have CustomerDisplay show animation of customer's interaction with machine
+- Each customer's interaction with the vending machine (name, item purchased, price)
 - Vending Machine is still being worked on 
 
