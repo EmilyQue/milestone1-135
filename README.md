@@ -40,3 +40,7 @@
 - Each customer's interaction with the vending machine (name, item purchased, price)
 - Vending Machine is still being worked on 
 
+12/15/2018:
+- Vending Machine works but does not implement some of the classes. 
+- Remove button was created, allows for user to remove item from the listview
+- Video was created and sent to instructor
